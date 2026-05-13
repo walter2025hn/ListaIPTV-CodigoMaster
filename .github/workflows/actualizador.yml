@@ -2,8 +2,8 @@ name: Actualizador Automático
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas automáticamente
-  workflow_dispatch:      # Esto te permite activarlo tú mismo cuando quieras
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -17,13 +17,16 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Ejecutar script
+      - name: Instalar librerías de Scraping
+        run: pip install requests beautifulsoup4
+
+      - name: Ejecutar bot de Cuevana
         run: python Update_list.py
 
-      - name: Guardar cambios
+      - name: Guardar cambios en la lista
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Bot: Actualización automática realizada" || exit 0
+          git commit -m "Bot: Películas de Cuevana actualizadas" || exit 0
           git push
