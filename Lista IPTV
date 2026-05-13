@@ -1,12 +1,15 @@
 #EXTM3U
 
-----TV EN VIVO----
-#EXTINF:-1
+# ---- TV EN VIVO ----
+#EXTINF:-1, Canal de Ejemplo
+http://link-del-canal.com
 
-----PELICULAS-----
-#EXTINF:-1
+# ---- PELICULAS ----
+#EXTINF:-1, Película de Ejemplo
+http://link-de-la-peli.com
 
------SERIES-----
-#EXTINF:-1
+# ---- SERIES ----
+#EXTINF:-1, Serie de Ejemplo
+http://link-de-la-serie.com
 
-# Nuevo contenido actualizado
+# Última actualización automática realizada
