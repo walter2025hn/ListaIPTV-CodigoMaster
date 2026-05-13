@@ -3,27 +3,30 @@ from bs4 import BeautifulSoup
 
 def obtener_peliculas_cuevana():
     url = "https://cuevana.st/peliculas"
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
     peliculas_lista = []
     
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=15)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
-            # Busca los contenedores de películas en el sitio
-            items = soup.find_all('li', class_='xxx') # El bot busca la estructura del sitio
             
-            for item in items:
-                titulo = item.find('h2').text.strip() if item.find('h2') else "Película sin título"
-                link_web = item.find('a')['href'] if item.find('a') else ""
+            # Buscamos todos los enlaces que estén dentro de la sección de películas
+            # Cuevana suele usar etiquetas 'a' con títulos dentro de figuras o divs
+            for item in soup.find_all('a'):
+                titulo = item.find('h2') or item.find('span')
+                link = item.get('href', '')
                 
-                if link_web:
-                    # Formato para tu lista IPTV
-                    peliculas_lista.append(f"#EXTINF:-1, {titulo}\n{link_web}")
+                if titulo and '/pelicula/' in link:
+                    nombre = titulo.text.strip()
+                    # Si el link es relativo, le ponemos el dominio
+                    url_completa = link if link.startswith('http') else f"https://cuevana.st{link}"
+                    peliculas_lista.append(f"#EXTINF:-1, {nombre}\n{url_completa}")
         
-        return peliculas_lista
+        # Eliminamos duplicados
+        return list(set(peliculas_lista))
     except Exception as e:
-        print(f"Error al conectar con Cuevana: {e}")
+        print(f"Error: {e}")
         return []
 
 def organizar_y_guardar():
@@ -38,7 +41,7 @@ def organizar_y_guardar():
         if nuevas_pelis:
             f.write("\n".join(nuevas_pelis))
         else:
-            f.write("# No se pudieron obtener películas hoy.\n")
+            f.write("# No se encontraron películas. Revisando conexión...\n")
             
         f.write("\n\n# ---- SERIES ----\n# Próximamente...\n")
         f.write("\n# Actualización automática de Código Master TV")
