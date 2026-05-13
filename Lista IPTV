@@ -1,15 +1,13 @@
 #EXTM3U
 
 # ---- TV EN VIVO ----
-#EXTINF:-1, Canal de Ejemplo
-http://link-del-canal.com
+# Próximamente...
 
-# ---- PELICULAS ----
-#EXTINF:-1, Película de Ejemplo
-http://link-de-la-peli.com
+# ---- PELICULAS (CUEVANA) ----
+# No se pudieron obtener películas hoy.
+
 
 # ---- SERIES ----
-#EXTINF:-1, Serie de Ejemplo
-http://link-de-la-serie.com
+# Próximamente...
 
-# Última actualización automática realizada
+# Actualización automática de Código Master TV
