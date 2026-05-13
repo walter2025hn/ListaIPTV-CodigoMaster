@@ -1,0 +1,21 @@
+#EXTM3U
+
+# --- TV EN VIVO ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" tvg-id="HCH" group-title="TV HONDURAS",HCH
+https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3UQY39MxwkYQtOgTqy732iueINQKRniMww&s" tvg-id="TVC" group-title="TV HONDURAS",DEPORTES TV
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/6287fda8ea3b8b397d1ca2ed/linear/hls/pa/event/AN_fEnDqSNy5-Dtxg3RtQQ/stream/01c78ea1-5f1f-4e26-a1b6-83569ca1445b:CHS/master.m3u8?aid=6287e30daf2b5f36b3fd330a&uid=bZFuAWLWPPmr051b60Zk1iNBIWtjliyk&sid=yVEDSzI8ls9PWdXPP8ru18Zquq52ykzl&pid=i3iq2iDCPPMMPJBqXqVnrD1M0HPpz002&pid_dvr=I4pdvDiKfd1dy3VPgSgZPyR1hYLKNynT&ref=https%3A%2F%2Fwww.televicentro.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=01c78ea1-5f1f-4e26-a1b6-83569ca1445b%3ACHS&CMCD=cid%3D%226287fda8ea3b8b397d1ca2ed%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22i3iq2iDCPPMMPJBqXqVnrD1M0HPpz002%22%2Csu&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1778643144058&ot=kVBt3uDHriU2LmIOd9BKYQ&proto=https&pz=us&access_token=Va7M9yEXFKhK3Rhv4xtzVMg65OUd5eQmu3uzeeTg6ljjW5csIlXHh55DG4Zz5zxVygFAI0L3Xvo
+
+# --- PELÍCULAS ---
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQpyW3aiFvwYPqIF7zm12ZaZIgrydD-wAI3yUIIkVQA&s=10" group-title="PELICULAS/ANIMADOS" content-type="video/mp4" movie-id="1",SPIDER-MAN
+https://dl.dropboxusercontent.com/scl/fi/oqqeo1texj29rllqrh7o7/Spider-Man:A_trav%C3%A9s_del_Spider-Verso%F0%9F%94%B9Fireflix.mp4?dl=0&rlkey=ll9xlhnvfddfi9rnfphhxn192
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVC-IorJ063Lj9OACSYdzgS9ufXGjT6m_f7JWJo8JnsA&s=10" group-title="PELICULAS/FANTASIA" content-type="video/mp4" movie-id="2",Avatar:Fuego y Ceniza
+https://hanerix.com/stream/kGGkNnoreafmMdvrTqKnWQ/kjhhiuahiuhgihdf/1778671136/69768578/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wZQzWaPnXh_DNaSpuGD7KbTVCIjSt9_vtn8yAL4cjw&s=10" group-title="PELICULAS/ANIMADOS" content-type="video/mp4" movie-id="3",Intercambiados
+https://hanerix.com/stream/Ca728rAqZfexkUEUXPNM0g/kjhhiuahiuhgihdf/1778672804/71178770/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS/ANIMADOS" content-type="video/mp4" movie-id="4",Mario Bros: GALAXY
+https://hanerix.com/stream/wp8LuxhIvRNk2vGRI6sJFw/kjhhiuahiuhgihdf/1778673837/70287777/index-v1-a1.m3u8
+
+#--- SERIES ---
+#EXTINF:-1 group-title="SERIES" content-type="video/mp4" series-id="TLOU1",The Last of Us S01E01
+https://ejemplo.com/series/tlou_01.mp4
