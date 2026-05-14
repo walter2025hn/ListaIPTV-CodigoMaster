@@ -41,15 +41,15 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkMeytgIQN8OY5mLz-tvBhy9mKbs3g7JE0GUdro8X8g&s=10" tvg-id="RadioIdeal.hn@SD" group-title="RADIO HONDURAS",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
 https://www.idealfm104-7.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="ImagenFM1051.hn@SD",Radio Imagen 105.1 FM (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUeReWl5TUGcw1SpJkrET9T6vM45y1wPRBuR0VB9mDg&s=10" tvg-id="ImagenFM1051.hn@SD" group-title="RADIO HONDURAS",Radio Imagen 105.1 FM (720p) [Not 24/7]
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RCVTV.hn@SD",RCV TV (712p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEBxfnI9E-BfFtpF4NsqbdBko51wEDPy6_PLNwODMNg&s=10" tvg-id="RCVTV.hn@SD" group-title="HONDURAS TV",RCV TV (712p)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-#EXTINF:-1 tvg-id="SulaTV.hn@SD",Sula TV (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUp3kFAN5uiWfEv2QSckOXd2ehbqTXiKQYCEOB7KKXg&s=10" tvg-id="SulaTV.hn@SD" group-title="HONDURS TV",Sula TV (1080p)
 https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemas.hn@SD",Telemás (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Amn3_m5gcV1K2qX7Y4URQLabIEtIq8_Uks6VD0QUFw&s=10" tvg-id="Telemas.hn@SD"group-title="HONDURAS TV",Telemás (720p)
 https://viewhn.com/telemas/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Telerayo.hn@SD",Telerayo (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNF5qfxLCG5Nwg_9G2mX7nv3G0JM5MlUAl3gYT_4Wtg&s=10" tvg-id="Telerayo.hn@SD" group-title="HONDURAS TV",Telerayo (1080p)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqGmtT7oEN5JCW1qvB5dpcpxYYD32eWS0pRiL201x_Q&s=10" tvg-id="TelevisionMetropolis191.hn@SD" group-title="RADIO HONDURAS",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
