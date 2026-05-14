@@ -1,0 +1,75 @@
+#EXTM3U
+
+-------- HONDURAS-------
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6F4pSEmKEZe78-kcn9ZBhyZc9RjTbgVVHC90-yXdvQ&s=10" tvg-id="AlsaciasTelevision.hn@SD" group-title="HONDURAS TV",Alsacias Televisión (ATV | Canal 28) (720p)
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ36SsRlSVkObp-AeGi7aAFdiAE7iI-eCJ_cvchA5pg&s" tvg-id="CampusTV.hn@SD" group-title="HONDURAS TV",Campus TV (480p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT99ffTUihldvaH-hJDpTKJkO_VxtFMS_6q7d-n46GeUw&s=10" tvg-id="Canal11.hn@SD" group-title="HONDURAS TV",Canal 11 (1080p) [Not 24/7]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGRFhAtryx6wR16LPPZ71uqo_zqN-KVUg2w3RQ8sS9Q&s=10" tvg-id="CholutecaTV.hn@SD" group-title="HONDURAS TV",Choluteca TV (1080p)
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14e0xugCIF0ZttVI9WdGNg-i06V3bSyr8vdC84MFl5A&s=10" tvg-id="CHTV.hn@SD" group-title="HONDURAS TV",CHTV (1080p)
+https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRXLkl2-tYrUkPYk52iEz1C-7bLaxUNUY1wsDfGmVwQ&s=10" tvg-id="DiosTeVe.hn@SD" group-title="HONDURAS TV",Dios Te Ve (720p)
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBu32EeUCjcSGeOyHwgYYMBeXhnlt-ZaFQynKyrrBcYQ&s=10" tvg-id="DiosTeVeKids.hn@SD" group-title="HONDURAS TV",Dios Te Ve Kids (720p)
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg042VSsDU43kd3dWhc7NxcDZMj3ZzVW-kU22fHrnd6w&s" tvg-id="DiosTvTalanga.hn@SD" group-title="HONDURAS TV",Dios Tv Talanga (1080p)
+https://tv.webmedialive.com/unciontv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuKajk8bBQSRfmLKQfIovLtTTEiq5pQCURmSVj8HuMw&s=10" tvg-id="EbenezerTV.hn@SD" group-title="HONDURAS TV",Ebenezer TV (1080p)
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNZCRKbN_7kePWmQFBNHe-ccwDy8RDAY81voxcPB6Yw&s=10" tvg-id="EDNTV.hn@SD" group-title="HONDURAS TV",EDN TV (1080p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7zFmF0xNo1FJsinACV83iyBH8BjcFgHt1wyBmZc-GS44MKNlUbdz_G8w&s=10" tvg-id="GirasolTV.hn@SD" group-title="HONDURAS TV",Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHJiyuuCAIMgJiyFNSYKswcy0xR9C_gXvLCfHAoDjCcRHxHvTh9_K-6bb&s=10" tvg-id="InmaculadaTV.hn@SD" group-title="HONDURAS TV",Inmaculada TV (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqV3RQCvnYwGjij2UcoYepKPVN1oPXJl3J6tKE-ZmKmQ&s=10" tvg-id="KerussoTV.hn@SD" group-title="HONDURAS TV",Kerusso TV (720p)
+https://s.emisoras.tv:8081/kerussotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wx22xJ9B1qDM15-BXiGRpBC2kZ0EEkP9584b6PojYw&s=10" tvg-id="LaTop1029.hn@SD" group-title="RADIO HONDURAS",La Top 102.9 (720p)
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.medios.gt/galeriausuarios/honduras1/imagenesmessage/imagem080131205702988.jpg" tvg-id="LaTop1077.hn@SD" group-title="RADIO HONDURAS",La Top 107.7 (720p)
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTn3JM4H8MEVXrYyDiD6MmvNtdSVPEP9Z_WrAd-ULbfYIx61QfDPsXtVw&s=10" tvg-id="LencaTV.hn@SD" group-title="HONDURAS TV",Lenca Television Canal 40 (720p) [Not 24/7]
+https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJr8Jl3-IapnqDfvGMr8WJTWRlKloyc_G3BG0loJFuw&s=10" tvg-id="LitoralAtlanticoHD.hn@SD" group-title="HONDURAS TV",Litoral Atlántico HD (720p)
+https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpdY-9kAhgveoG2G6xMi20MnVyAPTn2Ddr7rJIlbNmsg&s=10" tvg-id="MetroTV.hn@SD" group-title="HONDURAS TV",Metro TV (720p)
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.coicom.com/wp-content/uploads/2025/08/omega-medios-01.png" tvg-id="RadioOmegaTV.hn@SD" group-title="HONDURAS TV",Omega TV (720p) [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkMeytgIQN8OY5mLz-tvBhy9mKbs3g7JE0GUdro8X8g&s=10" tvg-id="RadioIdeal.hn@SD" group-title="RADIO HONDURAS",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
+https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUeReWl5TUGcw1SpJkrET9T6vM45y1wPRBuR0VB9mDg&s=10" tvg-id="ImagenFM1051.hn@SD" group-title="RADIO HONDURAS",Radio Imagen 105.1 FM (720p) [Not 24/7]
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEBxfnI9E-BfFtpF4NsqbdBko51wEDPy6_PLNwODMNg&s=10" tvg-id="RCVTV.hn@SD" group-title="HONDURAS TV",RCV TV (712p)
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUp3kFAN5uiWfEv2QSckOXd2ehbqTXiKQYCEOB7KKXg&s=10" tvg-id="SulaTV.hn@SD" group-title="HONDURAS TV",Sula TV (1080p)
+https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Amn3_m5gcV1K2qX7Y4URQLabIEtIq8_Uks6VD0QUFw&s=10" tvg-id="Telemas.hn@SD"group-title="HONDURAS TV",Telemás (720p)
+https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNF5qfxLCG5Nwg_9G2mX7nv3G0JM5MlUAl3gYT_4Wtg&s=10" tvg-id="Telerayo.hn@SD" group-title="HONDURAS TV",Telerayo (1080p)
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqGmtT7oEN5JCW1qvB5dpcpxYYD32eWS0pRiL201x_Q&s=10" tvg-id="TelevisionMetropolis191.hn@SD" group-title="RADIO HONDURAS",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOYLILmDOGR-KgO0NVZOX4zV54ENaXyKSEER6HKUcLA&s=10" tvg-id="TelevisionMetropolis192.hn@SD" group-title="RADIO HONDURAS",Televisión Metrópolis 19.2 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31QIcPy_ajG0-b7CIov3oHD4IbePl_RFz_nViIg1nLw&s=10" tvg-id="TelevisionOlanchana.hn@SD" group-title="HONDURAS TV",Television Olanchana
+https://viewhn.com/canal30/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2043682223061090304/xI52loCe_400x400.jpg" tvg-id="TSi.hn@SD" group-title="HONDURAS TV",TSi (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPOzjIbZVU6aLliVBDCtvynF0pDY9SC_F3y1YOiD1A5A&s=10" tvg-id="TSi.hn@SD" group-title="HONDURAS TV",TSi
+http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXGLbLi3fy_LNAT766EqwhifCgciEAJAeqmiX95TXQg&s=10" tvg-id="TVCentro272HD.hn@SD" group-title="RADIO HONDURAS",TV Centro 27.2 HD (720p)
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FMOD5Ws7ds4leAK1orChKKIagYU_cNcxWqARlwkeww&s=10" tvg-id="TVCentroHD.hn@SD" group-title="HONDURAS TV",TV Centro HD (720p)
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQUi5Jnfmi_zmxMWkm5oy3IiX3owD6Ei5_m9JYhUPYg&s=10" tvg-id="TVCopan.hn@SD" group-title="HONDURAS TV",TV Copán (720p) [Not 24/7]
+https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbP_rvAaW5WfEDmNYoVSbEu80DYjH9TdCOPoYiEmiAQ&s=10" tvg-id="VTV.hn@SD" group-title="HONDURAS TV",VTV (480p) [Not 24/7]
+https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoj3vbLALx7mfBpcqYCTxFvrLcJwrIHa31w&s" tvg-id="DeportesTVC.hn@SD" group-title="HONDURAS TV",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" tvg-id="HCH" group-title="HONDURAS TV",HCH
+https://live.streamhch.com/live/streams/hch1.m3u8
