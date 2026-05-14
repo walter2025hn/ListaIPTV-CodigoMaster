@@ -30,15 +30,15 @@ https://s.emisoras.tv:8081/kerussotv/index.m3u8
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medios.gt/galeriausuarios/honduras1/imagenesmessage/imagem080131205702988.jpg" tvg-id="LaTop1077.hn@SD" group-title="RADIO HONDURAS",La Top 107.7 (720p)
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
-#EXTINF:-1 tvg-id="LencaTV.hn@SD",Lenca Television Canal 40 (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTn3JM4H8MEVXrYyDiD6MmvNtdSVPEP9Z_WrAd-ULbfYIx61QfDPsXtVw&s=10" tvg-id="LencaTV.hn@SD" group-title="HONDURAS TV",Lenca Television Canal 40 (720p) [Not 24/7]
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="LitoralAtlanticoHD.hn@SD",Litoral Atlántico HD (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJr8Jl3-IapnqDfvGMr8WJTWRlKloyc_G3BG0loJFuw&s=10" tvg-id="LitoralAtlanticoHD.hn@SD" group-title="HONDURAS TV",Litoral Atlántico HD (720p)
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
-#EXTINF:-1 tvg-id="MetroTV.hn@SD",Metro TV (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpdY-9kAhgveoG2G6xMi20MnVyAPTn2Ddr7rJIlbNmsg&s=10" tvg-id="MetroTV.hn@SD" group-title="HONDURAS TV",Metro TV (720p)
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="RadioOmegaTV.hn@SD",Omega TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://www.coicom.com/wp-content/uploads/2025/08/omega-medios-01.png" tvg-id="RadioOmegaTV.hn@SD" group-title="HONDURAS TV",Omega TV (720p) [Not 24/7]
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioIdeal.hn@SD",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkMeytgIQN8OY5mLz-tvBhy9mKbs3g7JE0GUdro8X8g&s=10" tvg-id="RadioIdeal.hn@SD" group-title="RADIO HONDURAS",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="ImagenFM1051.hn@SD",Radio Imagen 105.1 FM (720p) [Not 24/7]
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
