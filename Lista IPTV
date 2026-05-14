@@ -28,7 +28,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wx22xJ9B1qDM15-BXiGRpBC2kZ0EEkP9584b6PojYw&s=10" tvg-id="LaTop1029.hn@SD" group-title="RADIO HONDURAS",La Top 102.9 (720p)
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.medios.gt/galeriausuarios/honduras1/imagenesmessage/imagem080131205702988.jpg" tvg-id="LaTop1077.hn@SD" group-logo="RADIO HONDURAS",La Top 107.7 (720p)
+#EXTINF:-1 tvg-logo="https://www.medios.gt/galeriausuarios/honduras1/imagenesmessage/imagem080131205702988.jpg" tvg-id="LaTop1077.hn@SD" group-title="RADIO HONDURAS",La Top 107.7 (720p)
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn@SD",Lenca Television Canal 40 (720p) [Not 24/7]
 https://lencatelevision.com/hls/stream.m3u8
