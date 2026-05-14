@@ -1,5 +1,6 @@
 #EXTM3U
 
+-------- HONDURAS-------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6F4pSEmKEZe78-kcn9ZBhyZc9RjTbgVVHC90-yXdvQ&s=10" tvg-id="AlsaciasTelevision.hn@SD" group-title="HONDURAS TV",Alsacias Televisión (ATV | Canal 28) (720p)
 https://s.emisoras.tv:8081/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ36SsRlSVkObp-AeGi7aAFdiAE7iI-eCJ_cvchA5pg&s" tvg-id="CampusTV.hn@SD" group-title="HONDURAS TV",Campus TV (480p) [Not 24/7]
@@ -60,13 +61,13 @@ https://viewhn.com/canal30/live/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="TSi.hn@SD",TSi
 http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
-#EXTINF:-1 tvg-id="TVCentro272HD.hn@SD",TV Centro 27.2 HD (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXGLbLi3fy_LNAT766EqwhifCgciEAJAeqmiX95TXQg&s=10" tvg-id="TVCentro272HD.hn@SD" group-title="RADIO HONDURAS",TV Centro 27.2 HD (720p)
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentroHD.hn@SD",TV Centro HD (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FMOD5Ws7ds4leAK1orChKKIagYU_cNcxWqARlwkeww&s=10" tvg-id="TVCentroHD.hn@SD" group-title="HONDURAS TV",TV Centro HD (720p)
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCopan.hn@SD",TV Copán (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQUi5Jnfmi_zmxMWkm5oy3IiX3owD6Ei5_m9JYhUPYg&s=10" tvg-id="TVCopan.hn@SD" group-title="HONDURAS TV",TV Copán (720p) [Not 24/7]
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:-1 tvg-id="VTV.hn@SD",VTV (480p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbP_rvAaW5WfEDmNYoVSbEu80DYjH9TdCOPoYiEmiAQ&s=10" tvg-id="VTV.hn@SD" group-title="HONDURAS TV",VTV (480p) [Not 24/7]
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD",Deportes TVC (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoj3vbLALx7mfBpcqYCTxFvrLcJwrIHa31w&s" tvg-id="DeportesTVC.hn@SD" group-title="HONDURAS TV",Deportes TVC (1080p)
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
