@@ -20,15 +20,15 @@ https://tv.webmedialive.com/unciontv/live/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNZCRKbN_7kePWmQFBNHe-ccwDy8RDAY81voxcPB6Yw&s=10" tvg-id="EDNTV.hn@SD" group-title="HONDURAS TV",EDN TV (1080p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:-1 tvg-id="GirasolTV.hn@SD",Girasol TV (1080i)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7zFmF0xNo1FJsinACV83iyBH8BjcFgHt1wyBmZc-GS44MKNlUbdz_G8w&s=10" tvg-id="GirasolTV.hn@SD" group-title="HONDURAS TV",Girasol TV (1080i)
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
-#EXTINF:-1 tvg-id="InmaculadaTV.hn@SD",Inmaculada TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHJiyuuCAIMgJiyFNSYKswcy0xR9C_gXvLCfHAoDjCcRHxHvTh9_K-6bb&s=10" tvg-id="InmaculadaTV.hn@SD" group-title="HONDURAS TV",Inmaculada TV (720p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
-#EXTINF:-1 tvg-id="KerussoTV.hn@SD",Kerusso TV (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqV3RQCvnYwGjij2UcoYepKPVN1oPXJl3J6tKE-ZmKmQ&s=10" tvg-id="KerussoTV.hn@SD" group-title="HONDURAS TV",Kerusso TV (720p)
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
-#EXTINF:-1 tvg-id="LaTop1029.hn@SD",La Top 102.9 (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wx22xJ9B1qDM15-BXiGRpBC2kZ0EEkP9584b6PojYw&s=10" tvg-id="LaTop1029.hn@SD" group-title="RADIO HONDURAS",La Top 102.9 (720p)
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-#EXTINF:-1 tvg-id="LaTop1077.hn@SD",La Top 107.7 (720p)
+#EXTINF:-1 tvg-logo="https://www.medios.gt/galeriausuarios/honduras1/imagenesmessage/imagem080131205702988.jpg" tvg-id="LaTop1077.hn@SD" group-logo="RADIO HONDURAS",La Top 107.7 (720p)
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn@SD",Lenca Television Canal 40 (720p) [Not 24/7]
 https://lencatelevision.com/hls/stream.m3u8
