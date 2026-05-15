@@ -106,13 +106,13 @@ https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2QJ42JdCBsgOLeTQceaHxbmJ88ZIFOVYeu6MDa5IsPfSwKRLO4cB5BSJ2sx7wNbLaTJFtd9H9x_1m0a3h6gVzgi04lAABXJxKh4YPVynk7U1q8cdWyuHf4gjivOEv7qQaiePpsRhyphenhyphen39tTqbDEpsd-wlsTyeSjAsNA1opLRcV9pcZd7E3EgXaRvGQ4Zln/s600/tv-cret.png" tvg-id="TVCRET.sv@SD" group-title="EL SALVADOR TV",TV CRET (1080p)
 https://radiocret.net:8082/hls/tvcret.m3u8
-#EXTINF:-1 tvg-id="TVGetsemani.sv@SD" group-title="EL SALVADOR TV",TV Getsemaní (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-hmbZp0d86d_M3s6ELWspYJE_nmYenVflhlkTv5IdQ&s=10" tvg-id="TVGetsemani.sv@SD" group-title="EL SALVADOR TV",TV Getsemaní (720p)
 https://serversv.com:8080/hls/tvgetsemani.m3u8
-#EXTINF:-1 tvg-id="TVLeondeJuda.sv@SD" group-title="EL SALVADOR TV",TV León de Judá (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbeDIG4UBGWpWKV-7QSIJUKvh9U01Ol0Poko36cdXLw&s=10" tvg-id="TVLeondeJuda.sv@SD" group-title="EL SALVADOR TV",TV León de Judá (720p)
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCNetwork.sv@SD" group-title="EL SALVADOR TV",TVC Network (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1U_4nRgBscuuMwa2stkQR2w0lRgeCAyq3mFbN8Zfh&s=10" tvg-id="TVCNetwork.sv@SD" group-title="EL SALVADOR TV",TVC Network (720p) [Not 24/7]
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
-#EXTINF:-1 tvg-id="TVCa.sv@SD" group-title="EL SALVADOR TV",TVCa Televisión Católica Arquidiocesana (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRims6PzmRB9nTlMCbHUkdvzCzZ2HyWy63r9GbXGpyoI6wSyQR1fVYQfMiA&s=10" tvg-id="TVCa.sv@SD" group-title="EL SALVADOR TV",TVCa Televisión Católica Arquidiocesana (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-#EXTINF:-1 tvg-id="WOWTV.sv@SD" group-title="EL SALVADOR TV",WOW TV (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sB3Ya__cUKORgEevdnFqny7nU2JvRd0ek1pBFLAAHA&s=10" tvg-id="WOWTV.sv@SD" group-title="EL SALVADOR TV",WOW TV (1080p)
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
