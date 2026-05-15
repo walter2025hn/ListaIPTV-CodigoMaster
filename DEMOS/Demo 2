@@ -86,15 +86,15 @@ https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScCabhPNt9WdYPKxB_B9BXbhXfKk6q2V_4cZuxDt9NA&s" tvg-id="Canal11TuTV.sv@SD" group-title="EL SALVADOR TV",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:-1 tvg-id="Canal12.sv@SD" group-title="EL SALVADOR TV",Canal 12 (220p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_12_Honduras.png/revision/latest/scale-to-width-down/220?cb=20170321003930" tvg-id="Canal12.sv@SD" group-title="EL SALVADOR TV",Canal 12 (220p)
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Canal26TVIAP.sv@SD" group-title="EL SALVADOR TV",Canal 26 TV IAP (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj29WMbL6wHZlCadYef-e00UkeGWCzQa_eWVoCW_Kjkw&s=10" tvg-id="Canal26TVIAP.sv@SD" group-title="EL SALVADOR TV",Canal 26 TV IAP (1080p)
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
-#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" group-title="EL SALVADOR TV",El Camino TV (480p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kL3phzqnn_3RVFMCd_fstMEAuMiPL3B9SN9QuwilXuCn_Gf8zglXrpNiGgHPnm7jnm4bYVkmFg=s900-c-k-c0x00ffffff-no-rj" tvg-id="ElCaminoTV.sv@SD" group-title="EL SALVADOR TV",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="JFVTV.sv@SD" group-title="EL SALVADOR TV",JFV TV (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIVAVrdkbRsy5zTvuor66NLFLBorI_fju-4JGU6SoL5Ty9FUm8KF9r6Js3&s=10" tvg-id="JFVTV.sv@SD" group-title="EL SALVADOR TV",JFV TV (720p)
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JosueTV.sv@SD" group-title="EL SALVADOR TV",Josué TV (1080p)
+#EXTINF:-1 tvg-logo="https://images.subsplash.com/image.jpg?id=f8670ea1-d50d-4b70-b0bf-9a58dace7184&w=3360&h=1890" tvg-id="JosueTV.sv@SD" group-title="EL SALVADOR TV",Josué TV (1080p)
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" group-title="EL SALVADOR TV",Megavisión Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
