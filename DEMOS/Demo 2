@@ -96,15 +96,15 @@ https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.subsplash.com/image.jpg?id=f8670ea1-d50d-4b70-b0bf-9a58dace7184&w=3360&h=1890" tvg-id="JosueTV.sv@SD" group-title="EL SALVADOR TV",Josué TV (1080p)
 https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" group-title="EL SALVADOR TV",Megavisión Canal 19 (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eYeRcJEmhukzZfjFsLZg_xp8oCCey450PP9x_gECDw1EvoUnsjEYLXhh&s=10" tvg-id="MegavisionCanal19.sv@SD" group-title="EL SALVADOR TV",Megavisión Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" group-title="EL SALVADOR TV",Megavisión Canal 21 (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUSnjdsmSAo2VARC9VYHX3ahjToGVaa6887_dK9xFjdQ&s=10" tvg-id="MegavisionCanal21.sv@SD" group-title="EL SALVADOR TV",Megavisión Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="RTVCanal57.sv@SD" group-title="EL SALVADOR TV",RTV Canal 57 (720p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVTNwon0YevQTFiWa9CVywOwCHzMUAQ5I8YmxB2zIWQ&s=10" tvg-id="RTVCanal57.sv@SD" group-title="EL SALVADOR TV",RTV Canal 57 (720p)
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-#EXTINF:-1 tvg-id="TaberTV.sv@SD" group-title="EL SALVADOR TV",Taber TV (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_WkmzecTwrz9O_kX4nwiuYYreKTONXQXp2Ski9ksKIQ&s=10" tvg-id="TaberTV.sv@SD" group-title="EL SALVADOR TV",Taber TV (1080p)
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCRET.sv@SD" group-title="EL SALVADOR TV",TV CRET (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2QJ42JdCBsgOLeTQceaHxbmJ88ZIFOVYeu6MDa5IsPfSwKRLO4cB5BSJ2sx7wNbLaTJFtd9H9x_1m0a3h6gVzgi04lAABXJxKh4YPVynk7U1q8cdWyuHf4gjivOEv7qQaiePpsRhyphenhyphen39tTqbDEpsd-wlsTyeSjAsNA1opLRcV9pcZd7E3EgXaRvGQ4Zln/s600/tv-cret.png" tvg-id="TVCRET.sv@SD" group-title="EL SALVADOR TV",TV CRET (1080p)
 https://radiocret.net:8082/hls/tvcret.m3u8
 #EXTINF:-1 tvg-id="TVGetsemani.sv@SD" group-title="EL SALVADOR TV",TV Getsemaní (720p)
 https://serversv.com:8080/hls/tvgetsemani.m3u8
