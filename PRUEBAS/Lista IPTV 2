@@ -1,162 +1,163 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AntaresTelevision.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/AntaresTelevision.pe.png",Antares Televisión (720p) [Not 24/7]
+#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/AntaresTelevision.pe.png" tvg-id="AntaresTelevision.pe@SD",Antares Television
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaSUR.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/AntenaSUR.pe.png",Antena SUR (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/AntenaSUR.pe.png" tvg-id="AntenaSUR.pe@SD",Antena SUR
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="AsiriTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/AsiriTV.pe.png",AsiriTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/AsiriTV.pe.png" tvg-id="AsiriTV.pe@SD",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/ATV.pe.png",ATV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/ATV.pe.png" tvg-id="ATV.pe@SD",ATV
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
-#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/ATV.pe.png",ATV [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/ATV.pe.png" tvg-id="ATV.pe@SD",ATV Directo
 #EXTVLCOPT:http-referrer=https://www.atv.pe/
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/ATVSur.pe.png",ATV Sur (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/ATVSur.pe.png" tvg-id="ATVSur.pe@SD",ATV Sur
+#EXTVLCOPT:http-referrer=https://www.atv.pe/
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/ATVPlus.pe.png",ATV+ (720p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/ATVPlus.pe.png" tvg-id="ATVPlus.pe@SD",ATV Plus
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/ATVPlus.pe.png",ATV+ [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/ATVPlus.pe.png" tvg-id="ATVPlus.pe@SD",ATV Plus Directo
 #EXTVLCOPT:http-referrer=https://www.atv.pe/
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/AutenticaTelevision.pe.png",Auténtica Televisión (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/AutenticaTelevision.pe.png" tvg-id="AutenticaTelevision.pe@SD",Autentica Television
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="BethelTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/BethelTV.pe.png",Bethel TV (720p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/BethelTV.pe.png" tvg-id="BethelTV.pe@SD",Bethel TV
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="BHTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/BHTV.pe.png",BHTV (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/BHTV.pe.png" tvg-id="BHTV.pe@SD",BHTV
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="CadenaTV.pe@HD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/CadenaTV.pe.png",Cadena TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/CadenaTV.pe.png" tvg-id="CadenaTV.pe@HD",Cadena TV
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-#EXTINF:-1 tvg-id="Canal8Catacaos.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Canal8Catacaos.pe.png",Canal 8 Catacaos (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Canal8Catacaos.pe.png" tvg-id="Canal8Catacaos.pe@SD",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 tvg-id="Canal21Huancayo.pe@HD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Canal21Huancayo.pe.png",Canal 21 Huancayo (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Canal21Huancayo.pe.png" tvg-id="Canal21Huancayo.pe@HD",Canal 21 Huancayo
 https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Conecta2TV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Conecta2TV.pe.png",Conecta2TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Conecta2TV.pe.png" tvg-id="Conecta2TV.pe@SD",Conecta2TV
 https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:-1 tvg-id="ControversiaTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ControversiaTV.pe.png",Controversia TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ControversiaTV.pe.png" tvg-id="ControversiaTV.pe@SD",Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="CRTelevision.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/CRTelevision.pe.png",CR Televisión Moyobamba (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/CRTelevision.pe.png" tvg-id="CRTelevision.pe@SD",CR Television Moyobamba
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="ECOTelevision.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/ECOTelevision.pe.png",ECO Television
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/ECOTelevision.pe.png" tvg-id="ECOTelevision.pe@SD",ECO Television
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/ExitosaTV.pe.png",Exitosa TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/ExitosaTV.pe.png" tvg-id="ExitosaTV.pe@SD",Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
-#EXTINF:-1 tvg-id="ImpactoTelevision.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ImpactoTelevision.pe.png",Impacto Televisión (360p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ImpactoTelevision.pe.png" tvg-id="ImpactoTelevision.pe@SD",Impacto Television
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-id="IntuitivaTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/IntuitivaTV.pe.png",Intuitiva TV (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/IntuitivaTV.pe.png" tvg-id="IntuitivaTV.pe@SD",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-id="JN19.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/JN19.pe.png",JN19 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/JN19.pe.png" tvg-id="JN19.pe@SD",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 tvg-id="Karibena.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/Karibena.pe.png",Karibena [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/Karibena.pe.png" tvg-id="Karibena.pe@SD",Karibena
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="LaFabulosaTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/LaFabulosaTV.pe.png",La Fabulosa Radio y TV (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/LaFabulosaTV.pe.png" tvg-id="LaFabulosaTV.pe@SD",La Fabulosa Radio y TV
 https://eu1.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 tvg-id="LaTele.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/LaTele.pe.png",La Tele
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/LaTele.pe.png" tvg-id="LaTele.pe@SD",La Tele
 https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/Latina.pe.png",Latina (720p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/Latina.pe.png" tvg-id="Latina.pe@SD",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/LatinaClasicos.pe.png",Latina Clasicos
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/LatinaClasicos.pe.png" tvg-id="LatinaClasicos.pe@SD",Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MegaTVArequipa.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MegaTVArequipa.pe.png",Mega TV Arequipa (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MegaTVArequipa.pe.png" tvg-id="MegaTVArequipa.pe@SD",Mega TV Arequipa
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-id="MegaTVJaen.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MegaTVJaen.pe.png",Mega TV Jaen (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MegaTVJaen.pe.png" tvg-id="MegaTVJaen.pe@SD",Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-id="MielTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MielTV.pe.png",Miel TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MielTV.pe.png" tvg-id="MielTV.pe@SD",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 tvg-id="MilenialTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MilenialTV.pe.png",Milenial TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MilenialTV.pe.png" tvg-id="MilenialTV.pe@SD",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MOChannel.pe.png",MO Channel (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/MOChannel.pe.png" tvg-id="",MO Channel
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/MonterricoTV.pe.png",Monterrico TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/MonterricoTV.pe.png" tvg-id="MonterricoTV.pe@SD",Monterrico TV
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/Nativa.pe.png",Nativa (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/Nativa.pe.png" tvg-id="Nativa.pe@SD",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/Nativa.pe.png",Nativa (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/Nativa.pe.png" tvg-id="Nativa.pe@SD",Nativa Alternativo
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1 tvg-id="NativaTVSatipo.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/NativaTVSatipo.pe.png",Nativa TV Satipo (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/NativaTVSatipo.pe.png" tvg-id="NativaTVSatipo.pe@SD",Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-id="ONDADIGITAL.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ONDADIGITAL.pe.png",ONDA DIGITAL (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ONDADIGITAL.pe.png" tvg-id="ONDADIGITAL.pe@SD",ONDA DIGITAL
 https://tv.ondadigital.pe/ondadigital/index.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/OvacionTV.pe.png",Ovacion TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/OvacionTV.pe.png" tvg-id="OvacionTV.pe@SD",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/OvacionTV.pe.png",Ovación TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/OvacionTV.pe.png" tvg-id="OvacionTV.pe@SD",Ovacion TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PancTVPeru.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/PancTVPeru.pe.png",Panc TV Peru (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/PancTVPeru.pe.png" tvg-id="PancTVPeru.pe@SD",Panc TV Peru
 https://panel.host-live.com:19360/20000/20000.m3u8
-#EXTINF:-1 tvg-id="PlanetaTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/PlanetaTV.pe.png",Planeta TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/PlanetaTV.pe.png" tvg-id="PlanetaTV.pe@SD",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="Primavera15.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Primavera15.pe.png",Primavera 15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Primavera15.pe.png" tvg-id="Primavera15.pe@SD",Primavera 15
 https://servilive.com:3538/live/v6qe84b6flive.m3u8
-#EXTINF:-1 tvg-id="RadioMaster.pe@HD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RadioMaster.pe.png",Radio Master (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RadioMaster.pe.png" tvg-id="RadioMaster.pe@HD",Radio Master
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
-#EXTINF:-1 tvg-id="RadioTropical.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RadioTropical.pe.png",Radio Tropical Tarapoto (480p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RadioTropical.pe.png" tvg-id="RadioTropical.pe@SD",Radio Tropical Tarapoto
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="RadioTVTendencias.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RadioTVTendencias.pe.png",Radio TV Tendencias (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RadioTVTendencias.pe.png" tvg-id="RadioTVTendencias.pe@SD",Radio TV Tendencias
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
-#EXTINF:-1 tvg-id="RadioTVOriente.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RadioTVOriente.pe.png",RadioTV Oriente (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RadioTVOriente.pe.png" tvg-id="RadioTVOriente.pe@SD",RadioTV Oriente
 https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:-1 tvg-id="RCR.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/RCR.pe.png",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/RCR.pe.png" tvg-id="RCR.pe@SD",Red de Comunicacion Regional
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 tvg-id="RNTelevision.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RNTelevision.pe.png",RN Televisión (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RNTelevision.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RNTelevision.pe.png",RN Television
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-id="RSelvaTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RSelvaTV.pe.png",RSelvaTV (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/RSelvaTV.pe.png" tvg-id="RSelvaTV.pe@SD",RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:-1 tvg-id="SenalPeruTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/SenalPeruTV.pe.png",Señal Perú TV (404p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/SenalPeruTV.pe.png" tvg-id="SenalPeruTV.pe@SD",Senal Peru TV
 https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SolTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/SolTV.pe.png",Sol Televisión (720p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/SolTV.pe.png" tvg-id="SolTV.pe@SD",Sol Television
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TelecolorYurimaguas.pe.png",Telecolor Yurimaguas (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TelecolorYurimaguas.pe.png" tvg-id="TelecolorYurimaguas.pe@SD",Telecolor Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-id="Teleselva.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Teleselva.pe.png",Teleselva
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Teleselva.pe.png" tvg-id="Teleselva.pe@SD",Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:-1 tvg-id="TelesurCamana.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TelesurCamana.pe.png",Telesur Camana [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TelesurCamana.pe.png" tvg-id="TelesurCamana.pe@SD",Telesur Camana
 https://telesurnew.b-cdn.net/hls/camana.m3u8
-#EXTINF:-1 tvg-id="TelesurMoquegua.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TelesurMoquegua.pe.png",Telesur Moquegua [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TelesurMoquegua.pe.png" tvg-id="TelesurMoquegua.pe@SD",Telesur Moquegua
 #EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
 https://telesurnew.b-cdn.net/hls/moquegua.m3u8
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TelevisionTarapoto.pe.png",Televisión Tarapoto (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TelevisionTarapoto.pe.png" tvg-id="TelevisionTarapoto.pe@SD",Television Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-#EXTINF:-1 tvg-id="TopTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TopTV.pe.png",Top FM TV (240p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TopTV.pe.png" tvg-id="TopTV.pe@SD",Top FM TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Trivu.pe.png",Trivu (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Trivu.pe.png" tvg-id="Trivu.pe@SD",Trivu
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TurboMixRadioTV.pe.png",Turbo Mix Radio TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TurboMixRadioTV.pe.png" tvg-id="TurboMixRadioTV.pe@SD",Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="TVCosmos.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/TVCosmos.pe.png",TV Cosmos (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/TVCosmos.pe.png" tvg-id="TVCosmos.pe@SD",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/TVPeru.pe.png",TV Peru (1080p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/TVPeru.pe.png" tvg-id="TVPeru.pe@SD",TV Peru
 #EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/TVPeruInternacional.pe.png",TV Peru Internacional (720p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/TVPeruInternacional.pe.png" tvg-id="TVPeruInternacional.pe@SD",TV Peru Internacional
 #EXTVLCOPT:http-referrer=https://www.tvperu.gob.pe/internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-#EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/TVPeruNoticias.pe.png",TV Peru Noticias (360p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/TVPeruNoticias.pe.png" tvg-id="TVPeruNoticias.pe@SD",TV Peru Noticias
 #EXTVLCOPT:http-referrer=http://www.tvperu.gob.pe/noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-#EXTINF:-1 tvg-id="TVSistemasCuzco.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TVSistemasCuzco.pe.png",TV Sistemas Cuzco (360p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TVSistemasCuzco.pe.png" tvg-id="TVSistemasCuzco.pe@SD",TV Sistemas Cuzco
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUNO.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TVUNO.pe.png",TVUNO (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/TVUNO.pe.png" tvg-id="TVUNO.pe@SD",TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="UnifeTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/UnifeTV.pe.png",Unife TV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/UnifeTV.pe.png" tvg-id="UnifeTV.pe@SD",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
-#EXTINF:-1 tvg-id="Unitel.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Unitel.pe.png",Unitel (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/Unitel.pe.png" tvg-id="Unitel.pe@SD",Unitel
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
-#EXTINF:-1 tvg-id="UranioTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/UranioTV.pe.png",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/UranioTV.pe.png" tvg-id="UranioTV.pe@SD",Uranio TV Yurimaguas
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="USMPTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/USMPTV.pe.png",USMPTV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/USMPTV.pe.png" tvg-id="USMPTV.pe@SD",USMPTV
 #EXTVLCOPT:http-referrer=https://usmptv.pe/
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="ViaAltomayo.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ViaAltomayo.pe.png",Vía Altomayo (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ViaAltomayo.pe.png" tvg-id="ViaAltomayo.pe@SD",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="ViaTelevision.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ViaTelevision.pe.png",Vía Televisión (720P) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/ViaTelevision.pe.png" tvg-id="ViaTelevision.pe@SD",Via Television
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-id="VisionSur.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/VisionSur.pe.png",Visión Sur TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/VisionSur.pe.png" tvg-id="VisionSur.pe@SD",Vision Sur TV
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/VivaTVYurimaguas.pe.png",Viva TV Yurimaguas (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/VivaTVYurimaguas.pe.png" tvg-id="VivaTVYurimaguas.pe@SD",Viva TV Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 tvg-id="VNP.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/VNP.pe.png",VNP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/VNP.pe.png" tvg-id="VNP.pe@SD",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/L1Max.pe.png",L1 Max (720p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/L1Max.pe.png" tvg-id="L1Max.pe@SD",L1 Max
 https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8
-#EXTINF:-1 tvg-id="RPPTV.pe@SD" tvg-logo="https://iptv-org.github.io/images/logos/RPPTV.pe.png",RPP TV (1080p)
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/images/logos/RPPTV.pe.png" tvg-id="RPPTV.pe@SD",RPP TV
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
-#EXTINF:-1 tvg-id="PrattelTV.pe@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/PrattelTV.pe.png",Prattel TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/PrattelTV.pe.png" tvg-id="PrattelTV.pe@SD",Prattel TV
 https://vs20.live.opencaster.com/prattelpe_a2b8d350/index.m3u8
