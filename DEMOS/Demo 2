@@ -301,3 +301,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="CanalCHD.co@SD" group-title="COLOMBIA TV",Canal CHD
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+
+----Partido Del Madrid----
+#EXTM3U
+#EXTINF:-1 group-title="Partido"
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjkyLjkuMTAx/37_.m3u8?token=gHu-qD-LlnA9oTxxcND_gw&expires=1779072521
