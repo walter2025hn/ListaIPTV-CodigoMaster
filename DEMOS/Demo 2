@@ -304,5 +304,5 @@ https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 
 ----Partido Del Madrid----
 #EXTM3U
-#EXTINF:-1 group-title="Partido"
+#EXTINF:-1 group-title="Partido",Real Madrid vs Sevilla
 https://deportes.ksdjugfsddeports.com:9092/MTkwLjkyLjkuMTAx/37_.m3u8?token=gHu-qD-LlnA9oTxxcND_gw&expires=1779072521
