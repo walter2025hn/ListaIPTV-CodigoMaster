@@ -1,2 +1,6 @@
 #EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="famelack_1" group-title="Famelack", Canal Famelack 1
+https://famelack.com/tv
 
