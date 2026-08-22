@@ -1,32 +1,34 @@
-name: Actualizador Automático
+name: Auto Extractor Famelack
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
 
 jobs:
-  build:
+  run-script:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout del código
-        uses: actions/checkout@v3
+    - name: Clonar repositorio
+      uses: actions/checkout@v4
 
-      - name: Configurar Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
 
-      - name: Instalar librerías de Scraping
-        run: pip install requests beautifulsoup4
+    - name: Instalar dependencias
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
 
-      - name: Ejecutar bot de Cuevana
-        run: python Update_list.py
+    - name: Ejecutar Extractor
+      run: python extractor.py
 
-      - name: Guardar cambios en la lista
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Bot: Películas de Cuevana actualizadas" || exit 0
-          git push
+    - name: Hacer Push a GitHub
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add lista_famelack.m3u
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Actualización automática lista Famelack" && git push)
